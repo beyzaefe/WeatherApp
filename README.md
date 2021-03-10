@@ -1,4 +1,16 @@
 # WeatherApp
+Google Maps kullanabilmek için Google Cloud Platform üzerinden bir proje oluşturmalıdır. 
+Projeye API key oluşturulmalıdır.
+Google Cloud Platform 'Billing' kısmında proje entegre edilmelidir.
+Android, IOS gibi kütüphaneler 'enable' edilmedir
+### Libraries to enable
+- Maps SDK for Android
+- Maps SDK for IOS
+- Gecoding API
+- Geolocation API
+- Directions API
+- Places API
+
 ## End Point
 - Google Maps : https://maps.googleapis.com/maps/api/directions/json?origin=${origin}&destination=${destination}&key=${APIKEY} (Request throwable with Api key)
 - Openweathermap : https://api.openweathermap.org/data/2.5/onecall?lat=${lat}&lon=${lon}&appid=${api_key}&units=metric (Request throwable with Api key)
