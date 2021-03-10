@@ -2,7 +2,7 @@
 - Google Maps kullanabilmek için Google Cloud Platform kayıt olunmalı ve bir proje oluşturulmalıdır. 
 - Proje için API key alınmalıdır.
 - Android, IOS gibi kütüphaneler 'enable' edilmedir.
-### Libraries to enable
+#### Libraries to enable
 - Maps SDK for Android
 - Maps SDK for IOS
 - Gecoding API
