@@ -1,8 +1,7 @@
 # WeatherApp
-Google Maps kullanabilmek için Google Cloud Platform üzerinden bir proje oluşturmalıdır. 
-Projeye API key oluşturulmalıdır.
-Google Cloud Platform 'Billing' kısmında proje entegre edilmelidir.
-Android, IOS gibi kütüphaneler 'enable' edilmedir
+- Google Maps kullanabilmek için Google Cloud Platform kayıt olunmalı ve bir proje oluşturulmalıdır. 
+- Proje için API key alınmalıdır.
+- Android, IOS gibi kütüphaneler 'enable' edilmedir.
 ### Libraries to enable
 - Maps SDK for Android
 - Maps SDK for IOS
